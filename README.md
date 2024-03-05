@@ -1,0 +1,1 @@
+#This project is an impressive recreation of the renowned e-commerce platform, Flipkart. This project is a result of meticulous effort and creative ingenuity, bringing to life the essence of Flipkart through HTML, CSS, and JavaScript only.
